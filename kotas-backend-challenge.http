@@ -1,0 +1,6 @@
+@kotas_backend_challenge_HostAddress = http://localhost:5196
+
+GET {{kotas_backend_challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
